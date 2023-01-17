@@ -1,0 +1,8 @@
+k, q, r, b, n, p = input().split()
+k = int(k)
+q = int(q)
+r = int(r)
+b = int(b)
+n = int(n)
+p = int(p)
+print(1 - k, 1 - q, 2 - r, 2 - b, 2 - n, 8 - p)
